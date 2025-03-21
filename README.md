@@ -5,7 +5,11 @@
 
 - 👨‍💻 Digital Agriculture Lab [https://digitalag.ucdavis.edu/](https://digitalag.ucdavis.edu/)
 
+- 🌐 Website [https://mohammadrezanarimaniucdavis.github.io/](https://mohammadrezanarimaniucdavis.github.io/)
+
 - 📝 I regularly write articles on [https://mohammadrezanarimaniucdavis.github.io/blog.html](https://mohammadrezanarimaniucdavis.github.io/blog.html)
+
+- 📂 Public Repositories [https://github.com/MohammadrezaNarimaniUCDavis?tab=repositories](https://github.com/MohammadrezaNarimaniUCDavis?tab=repositories)
 
 - 📫 How to reach me **mnarimani@ucdavis.edu**
 

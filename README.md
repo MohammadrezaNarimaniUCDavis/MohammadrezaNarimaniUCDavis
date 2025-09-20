@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mnarimani@ucdavis.edu**
 
-- 📄 Know about my experiences [https://mohammadrezanarimaniucdavis.github.io/assets/documents/Mohammadreza_Narimani_CV_09-16-2025.pdf](Mohammadreza Narimani CV)
+- 📄 Know about my experiences [Mohammadreza Narimani CV](https://mohammadrezanarimaniucdavis.github.io/assets/documents/Mohammadreza_Narimani_CV_09-16-2025.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
